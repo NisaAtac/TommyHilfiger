@@ -2,7 +2,7 @@
 
 ---
 
-This is a front-end application of the homepage of the Tommy Hilfiger's Denim website. 
+This is the front-end application of the Tommy Hilfiger's Denim homepage. 
 It is built by Html, css and js. 
 It consists of different animations.
 
